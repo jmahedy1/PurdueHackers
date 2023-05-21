@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 100px;
+  color: blue;
+}
+
+body{
+  background: magenta;
+  font-family: 'Arial';
+  color: #001eff;
+  text-align: center;
+}
+
+.othercolor{
+  color: green;
+}
